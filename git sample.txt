@@ -1,2 +1,2 @@
-git commit -m "updated program "
-
+git init
+git status 
