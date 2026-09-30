@@ -1,4 +1,2 @@
-git init
-git status 
-git add .
-git commit
+this is my first full request
+
